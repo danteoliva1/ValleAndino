@@ -330,14 +330,15 @@ button:not(:disabled),
 
 .btn-primary {
   color: #000;
-  background-color: #f2dd6e;
-  border-color: #f2dd6e;
+  background-color: #ffea80;
+  border-color: #c0b166;
+  transition: all ease-in .3s;
 }
 
 .btn-primary:hover {
   color: #000;
-  background-color: #f4e284;
-  border-color: #f3e07d;
+  background-color: #f2dd6e;
+  border-color: #6d622a;
 }
 
  .btn-primary:focus {
