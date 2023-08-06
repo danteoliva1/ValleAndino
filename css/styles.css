@@ -328,7 +328,10 @@ header {
 .menu-item:hover {
   color: rgb(105, 162, 228);
 }
-
+.menu-item a {
+  text-decoration: none;
+  color: white;
+}
 .copyright {
   color: #f2f2f2;
   font-size: 20px;
@@ -451,4 +454,8 @@ header {
   .cuadro-text {
     font-size: 20px;
   }
+}
+
+#contact {
+  margin-top: 40px;
 }
